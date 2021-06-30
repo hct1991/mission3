@@ -1,0 +1,264 @@
+.start {
+  max-height: 3700px;
+  max-width: 1300px;
+  display: flexbox;
+
+
+
+}
+
+.text {
+  position: absolute;
+  text-align: start;
+  
+}
+h1 {
+  margin-left: 150px;
+  opacity: 0.6;
+  font-weight: bold;
+}
+
+p {
+  margin-left: 150px;
+  opacity: 0.6;
+}
+
+.future {
+  color: deepskyblue;
+  margin-left: 7px;
+}
+
+.kefe {
+  display: flex; 
+}
+
+.enquire {
+  position: absolute;
+  height: 27px;
+  width: 110px;
+  margin-left: 300px;
+}
+
+.signup {
+    background-color :rgb(255, 0, 149);
+    color: white;
+    position: absolute;
+    height: 20px;
+    width: 90px;
+    text-align: center;
+    font-size: 9px;
+    margin: 1px 0px 0px 450px;
+    border-radius: 5px;
+    border-color: transparent;
+    font-weight: bold;
+}
+
+h2 {
+  margin-left: 150px;
+  opacity: 0.6;
+  font-weight: bold;
+}
+
+.small {
+  margin-left: 150px;
+  opacity: 0.6;
+  font-size: 6.5px;
+  margin: 40px 0px 0px 450px;
+  font-weight: 600;
+}
+
+span {
+  font-weight: bold;
+}
+
+.Bluebuttons {
+  display: flex;
+  margin-left: 150px;
+}
+
+.blueButton{
+  background-color: rgb(87, 176, 231);
+  border-radius: 5px;
+  border:none;
+  margin: 5px;
+  text-align: center;
+  color: white;
+  padding: 2px 5px 3px 5px;
+  height: 110px
+}
+
+.blueButton img{
+  display: block;
+  margin: auto;
+  justify-content: center;
+  height: 30px;
+  margin: 25PX;
+  
+}
+
+.two{
+  display: flex;
+}
+
+.twoLeft{
+  display: inline-block;
+  height: 100%;
+  width: 50%;
+
+}
+.twoRight{
+  display: inline-block;
+  height: 100%;
+  width: 50%;
+}
+.twoRight img{
+  width: 100%;
+  height: 100%;
+}
+
+
+.title {
+  width: 20px;
+  height: 20px;
+}
+
+.lap1 {
+  width: 20px;
+  height: 20px;
+}
+
+.lap2 {
+  width: 20px;
+  height: 20px;
+}
+
+.lap3 {
+  width: 20px;
+  height: 20px;
+}
+
+.lap4 {
+  width: 20px;
+  height: 20px;
+}
+
+.bulletLinks{
+  display: flex;
+
+}
+.bulletLinks a {
+  background: black;
+  border-color: black;
+  outline-color: black;
+  display: block;
+  width: 8px;
+  height: 8px;
+  text-align: center;
+  text-decoration: none;
+  color: black;
+  border-radius: 50%;
+  transition: all 0.2s linear;
+  margin: 5px 0px 0px 100px;
+
+}
+
+h3 {
+  margin-left: 250px;
+}
+
+.skillSection{
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
+.skills{
+  background: violet;
+  margin: 0px auto;
+
+}
+
+.h2header {
+  display: flex;
+  margin-left: 15%;
+}
+
+.tabs {
+  display: flex;
+  justify-content: center;
+}
+
+.boxTitle {
+  text-align: center;
+  font-display: center;
+  justify-content: center;
+  margin: 0px;
+  width: 100%
+}
+
+.titleH {
+  margin: 0% 0% 0% 40%;
+}
+
+.boxText {
+  background: darkgray;
+  display: flexbox;
+}
+
+.boxText p {
+  margin-left: 10px;
+}
+
+.boxText h3 {
+  margin-left: 10px;
+} 
+
+.box {
+  display: flex;
+  flex-direction: row;
+}
+
+.boxImg {
+  margin: 0;
+  background-color: tomato;
+  width: 20%;
+
+}
+
+.boxCap {
+  margin-left: 10px;
+  background-color: violet;
+  width: 80%;
+}
+
+.star {
+  background-color: violet;
+}
+
+.fiveLeft {
+  display: inline-block;
+  height: 100%;
+  width: 50%;
+}
+
+.fiveRight {
+  display: inline-block;
+  height: 100%;
+  width: 50%;
+}
+
+.fiveH {
+  margin: 5%;
+  padding: 0px;
+  position: inherit;
+}
+
+.teacher {
+  width: 500px;
+  height: 300px;
+  margin: auto;
+}
